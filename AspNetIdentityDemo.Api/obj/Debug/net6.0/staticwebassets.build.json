@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QcTMBAui9u+OJWXuHuoKVEFx4e2IQbrEOnpSwECT9xc=",
+  "Source": "AspNetIdentityDemo.Api",
+  "BasePath": "_content/AspNetIdentityDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetIdentityDemo.Api\\wwwroot",
+      "Source": "AspNetIdentityDemo.Api",
+      "ContentRoot": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Api\\wwwroot\\",
+      "BasePath": "_content/AspNetIdentityDemo.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Api\\wwwroot\\confirmEmail.html",
+      "SourceId": "AspNetIdentityDemo.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Api\\wwwroot\\",
+      "BasePath": "_content/AspNetIdentityDemo.Api",
+      "RelativePath": "confirmEmail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\confirmEmail.html"
+    }
+  ]
+}
