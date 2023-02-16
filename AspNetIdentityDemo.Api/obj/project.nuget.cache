@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jhQUwu7FAFsD+W4xp6GxIFisEkQgg7k8cwC+y+UT3fAuoj340oxU/rkUhwKvFvniaP7A/8LU5DgtKeak9n9mQw==",
+  "dgSpecHash": "LWgWZCpE9NjhMscvnZKPSs3i28dzCgvfqusO9ApUVDD51viLdSDgwUhn9Y3ARS6BPrxMFWR2fdTT5v1DMsBVYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
+  "projectFilePath": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\Authentication\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phu Cuong\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Phu Cuong\\.nuget\\packages\\mailkit\\3.5.0\\mailkit.3.5.0.nupkg.sha512",

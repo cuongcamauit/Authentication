@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj": {}
+    "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\Authentication\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj": {
+    "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\Authentication\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\Authentication\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj",
         "projectName": "AspNetIdentityDemo.Shared",
-        "projectPath": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj",
+        "projectPath": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\Authentication\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\Phu Cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\AspNetIdentityDemo\\AspNetIdentityDemo.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Phu Cuong\\OneDrive\\C Sharp\\Authentication\\AspNetIdentityDemo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

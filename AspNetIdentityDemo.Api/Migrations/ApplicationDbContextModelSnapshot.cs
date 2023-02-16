@@ -76,14 +76,14 @@ namespace AspNetIdentityDemo.Api.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "63c56c33-b18b-40d0-8b83-adea900b18b7",
+                            Id = "80d86417-0eea-43f7-b65f-d3040d7e0e83",
                             ConcurrencyStamp = "1",
                             Name = "Admin",
                             NormalizedName = "Admin"
                         },
                         new
                         {
-                            Id = "833fd665-012c-4db6-945a-c0e3ecaefeea",
+                            Id = "b4a87932-4b08-4424-9411-cd7e0ff98dc2",
                             ConcurrencyStamp = "2",
                             Name = "User",
                             NormalizedName = "User"

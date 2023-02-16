@@ -25,4 +25,8 @@
     <ProjectReference Include="..\AspNetIdentityDemo.Shared\AspNetIdentityDemo.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>
